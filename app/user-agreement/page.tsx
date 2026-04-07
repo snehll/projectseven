@@ -121,549 +121,255 @@ export default function UserAgreement() {
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               transition={{ duration: 0.5 }}>
-              <Typography variant="h3" align="center" gutterBottom>
-                User Agreement
-              </Typography>
-
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 2, px: isMobile ? 0 : 25 }}>
-                Last Updated: November 12, 2025
-              </Typography>
-
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 4, px: isMobile ? 0 : 25 }}>
-                This User Agreement describes how Aegis Overseas FZ-LLC, a
-                company duly organized and existing under the laws of the
-                Republic of Türkiye, having its registered office in Türkiye
-                (“Atlas Trade,” “we,” “our,” or “us”), governs your use of the
-                website http://aegisoverseas.ae/ (“Website”).
-              </Typography>
-
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 4, px: isMobile ? 0 : 25 }}>
-                By using our Website, you agree to be bound by this User
-                Agreement.
+              <Typography variant="h3" align="center" gutterBottom sx={{ mb: 4, fontWeight: "bold" }}>
+                TERMS OF USE
               </Typography>
 
               <Typography
                 variant="h5"
+                align="center"
                 gutterBottom
-                sx={{ px: isMobile ? 0 : 25 }}>
-                1. General Conditions
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                1.1. This User Agreement (‘Agreement’) applies to the website
-                available at http://www.atlas-trade.org (hereinafter referred to
-                as the "Website").
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                1.2. The Website is owned by a legal entity, ATLAS TRADE
-                TEKNOLOJI ELEKTRONIK VE OTOMOTIV SANAYI TICARET ANONIM SIRKETI
-                (hereinafter referred to as the "Website Owner" or the "Website
-                Administration").
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                1.3. This Agreement, including all appendices hereto, governs
-                the relationship between the User and the Website
-                Administration.
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                1.4. The Website of ATLAS TRADE TEKNOLOJI ELEKTRONIK VE OTOMOTIV
-                SANAYI TICARET ANONIM SIRKETI is not a mass media or trading
-                platform. It is an informational resource of the company ATLAS
-                TRADE TEKNOLOJI ELEKTRONIK VE OTOMOTIV SANAYI TICARET ANONIM
-                SIRKETI.
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                1.5. The Administration reserves the right to unilaterally amend
-                the terms of this Agreement without prior notice to Users, by
-                posting the updated version on the Website at the above address.
-                The provisions of the new version become mandatory for all Users
-                from the date of its entry into force.
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 4, px: isMobile ? 0 : 25 }}>
-                1.6. The Administration grants the User the right to use the
-                Website in accordance with the procedure and under the
-                conditions set forth in this Agreement, and the User agrees to
-                comply with these terms.
+                sx={{ mb: 2, color: "text.primary" }}>
+                Aegis Overseas FZ-LLC
               </Typography>
 
               <Typography
-                variant="h5"
-                gutterBottom
-                sx={{ px: isMobile ? 0 : 25 }}>
-                2. Terms and Definitions
-              </Typography>
-              <Typography
                 paragraph
-                align="justify"
+                align="center"
                 fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                2.1. The following terms are used in this Agreement:
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                2.1.1. "Administration" means ATLAS TRADE TEKNOLOJI ELEKTRONIK
-                VE OTOMOTIV SANAYI TICARET ANONIM SIRKETI, which holds exclusive
-                rights to the Website.
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                2.1.2. "User" means any person who has accepted the offer at
-                http://www.atlas-trade.org.
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                2.1.3. "Content" means the intellectual property of the Website
-                Owner, including texts, titles, prefaces, annotations, articles,
-                illustrations, covers, musical works, graphic, textual,
-                photographic, derivative, composite works, user interfaces,
-                visual interfaces, trademarks, logos, computer programs,
-                databases, as well as the design, structure, selection, layout,
-                general style, and location of such content on the Website,
-                whether individually or collectively.
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                2.2. Other terms and definitions used in this Agreement shall be
-                interpreted in accordance with the laws of the Republic of
-                Türkiye.
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 4, px: isMobile ? 0 : 25 }}>
-                2.3. Headings used in this Agreement are for convenience only
-                and shall not affect interpretation.
+                sx={{ mb: 6, opacity: 0.8 }}>
+                Last updated: 23.03.2026
               </Typography>
 
-              <Typography
-                variant="h5"
-                gutterBottom
-                sx={{ px: isMobile ? 0 : 25 }}>
-                3. Subject of the Agreement
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                3.1. This Agreement governs access to the information contained
-                on the Website and services provided to the User.
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                3.2. The Website provides Users with the following services:
-              </Typography>
-              <Typography
-                component="div"
-                sx={{ pl: 2, mb: 1, px: isMobile ? 0 : 25 }}>
-                <ul style={{ margin: 0, paddingLeft: 20 }}>
-                  <li>Access to the Website's search and navigation tools;</li>
-                  <li>
-                    Access to information about services and works provided by
-                    ATLAS TRADE TEKNOLOJI ELEKTRONIK VE OTOMOTIV SANAYI TICARET
-                    ANONIM SIRKETI.
-                  </li>
+              <Box sx={{ px: isMobile ? 0 : 15 }}>
+                <Typography variant="h5" gutterBottom sx={{ color: "text.primary", mt: 4 }}>
+                  1. Introduction
+                </Typography>
+                <Typography paragraph align="justify" fontSize={15} sx={{ mb: 4, lineHeight: 1.6 }}>
+                  These Terms of Use (“Terms”) govern your access to and use of the website located at http://aegisoverseas.ae/ (“Website”), operated by Aegis Overseas FZ-LLC, a company incorporated in the Ras Al Khaimah Free Zone, United Arab Emirates (“Company”, “we”, “us”, or “our”).
+                  <br /><br />
+                  By accessing or using this Website, you agree to be bound by these Terms. If you do not agree, you must not use the Website.
+                </Typography>
+
+                <Typography variant="h5" gutterBottom sx={{ color: "text.primary", mt: 4 }}>
+                  2. Nature of the Website
+                </Typography>
+                <Typography paragraph align="justify" fontSize={15} sx={{ mb: 2, lineHeight: 1.6 }}>
+                  The Website is provided for informational and business communication purposes only.
+                  <br /><br />
+                  It presents:
+                </Typography>
+                <ul style={{ marginBottom: 24, fontSize: 15, lineHeight: 1.8, paddingLeft: 20 }}>
+                  <li>The Company’s international trading and brokerage services</li>
+                  <li>General descriptions of logistics and supply capabilities</li>
+                  <li>Contact and inquiry functionality</li>
                 </ul>
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                3.3. All existing and future services of the Website are subject
-                to this Agreement.
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                3.4. Access to the Website is voluntary.
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                3.5. This Agreement does not constitute a public offer.
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 4, px: isMobile ? 0 : 25 }}>
-                3.6. Use of the Website and its materials is regulated by the
-                legislation of the Republic of Türkiye.
-              </Typography>
+                <Typography paragraph align="justify" fontSize={15} sx={{ mb: 4, lineHeight: 1.6 }}>
+                  Nothing on this Website constitutes a binding offer, quotation, or contractual commitment.
+                </Typography>
 
-              <Typography
-                variant="h5"
-                gutterBottom
-                sx={{ px: isMobile ? 0 : 25 }}>
-                4. Rights and Obligations of the Parties
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                4.1. The User has the right to:
-              </Typography>
-              <Typography
-                component="div"
-                sx={{ pl: 2, mb: 1, px: isMobile ? 0 : 25 }}>
-                <ul style={{ margin: 0, paddingLeft: 20 }}>
-                  <li>
-                    Use the Website and the available services and review the
-                    Content without restrictions;
-                  </li>
-                  <li>
-                    Contact the Website Administration with questions related to
-                    the Website content by email or other feedback methods
-                    available on the Website;
-                  </li>
-                  <li>
-                    Use the Website solely for purposes allowed by this
-                    Agreement and Turkish law.
-                  </li>
+                <Typography variant="h5" gutterBottom sx={{ color: "text.primary", mt: 4 }}>
+                  3. Scope of Services
+                </Typography>
+                <Typography paragraph align="justify" fontSize={15} sx={{ mb: 2, lineHeight: 1.6 }}>
+                  The Company operates as:
+                </Typography>
+                <ul style={{ marginBottom: 24, fontSize: 15, lineHeight: 1.8, paddingLeft: 20 }}>
+                  <li>Supplier (under direct contracts); and/or</li>
+                  <li>Broker/intermediary, facilitating transactions between third-party buyers and sellers</li>
                 </ul>
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                4.2. The Administration has the right to:
-              </Typography>
-              <Typography
-                component="div"
-                sx={{ pl: 2, mb: 1, px: isMobile ? 0 : 25 }}>
-                <ul style={{ margin: 0, paddingLeft: 20 }}>
-                  <li>
-                    Create, modify, and cancel rules for using the Website and
-                    its Content. Changes become effective upon publication on
-                    the Website;
-                  </li>
-                  <li>
-                    Restrict access to the Website or specific information on
-                    the Website if the User violates this Agreement;
-                  </li>
-                  <li>
-                    Remove materials from the Website or temporarily suspend
-                    access without prior explanation.
-                  </li>
+                <Typography paragraph align="justify" fontSize={15} sx={{ mb: 2, lineHeight: 1.6 }}>
+                  When acting as a broker:
+                </Typography>
+                <ul style={{ marginBottom: 24, fontSize: 15, lineHeight: 1.8, paddingLeft: 20 }}>
+                  <li>The Company does not take ownership of goods</li>
+                  <li>The Company does not act as manufacturer or end supplier</li>
+                  <li>The Company earns commission-based compensation</li>
                 </ul>
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                4.3. The User undertakes to:
-              </Typography>
-              <Typography
-                component="div"
-                sx={{ pl: 2, mb: 1, px: isMobile ? 0 : 25 }}>
-                <ul style={{ margin: 0, paddingLeft: 20 }}>
-                  <li>
-                    Provide additional information upon the Administration's
-                    request, if directly related to the Website services;
-                  </li>
-                  <li>
-                    Respect the property and intellectual rights of authors and
-                    copyright holders;
-                  </li>
-                  <li>
-                    Avoid actions violating confidentiality protected by Turkish
-                    law;
-                  </li>
-                  <li>
-                    Not distribute advertising materials without the
-                    Administration's consent;
-                  </li>
-                  <li>Not disrupt the Website's functionality;</li>
-                  <li>
-                    Not use automated devices, scripts, algorithms, or other
-                    methods to access, copy, or track Website content
-                    unlawfully;
-                  </li>
-                  <li>
-                    Not use the Website for downloading content that is illegal
-                    or violates third-party rights, promotes violence, hatred,
-                    discrimination, false information, or insults;
-                  </li>
-                  <li>
-                    Not attempt to gain unauthorized access to the Website,
-                    related systems, or services;
-                  </li>
-                  <li>
-                    Not compromise the Website's security or authentication
-                    systems;
-                  </li>
-                  <li>
-                    Not track or attempt to track other Users’ information;
-                  </li>
-                  <li>
-                    Not bypass the Website’s navigation structure to obtain
-                    information or materials not provided by the Website's
-                    services.
-                  </li>
+                <Typography paragraph align="justify" fontSize={15} sx={{ mb: 4, lineHeight: 1.6 }}>
+                  All specific rights and obligations are governed exclusively by separate written agreements.
+                </Typography>
+
+                <Typography variant="h5" gutterBottom sx={{ color: "text.primary", mt: 4 }}>
+                  4. No Reliance on Website Content
+                </Typography>
+                <Typography paragraph align="justify" fontSize={15} sx={{ mb: 2, lineHeight: 1.6 }}>
+                  All information on the Website is provided on a general, non-binding basis.
+                  <br /><br />
+                  While we aim for accuracy, we do not guarantee that:
+                </Typography>
+                <ul style={{ marginBottom: 24, fontSize: 15, lineHeight: 1.8, paddingLeft: 20 }}>
+                  <li>Information is complete, current, or error-free</li>
+                  <li>Services described will be available in all cases</li>
+                  <li>Any logistics timelines, pricing, or outcomes will be achieved</li>
                 </ul>
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 4, px: isMobile ? 0 : 25 }}>
-                4.4. The Administration undertakes to maintain Website
-                functionality except when impossible due to reasons beyond its
-                control.
-              </Typography>
+                <Typography paragraph align="justify" fontSize={15} sx={{ mb: 4, lineHeight: 1.6 }}>
+                  Users must rely only on formal commercial agreements, not Website content.
+                </Typography>
 
-              <Typography
-                variant="h5"
-                gutterBottom
-                sx={{ px: isMobile ? 0 : 25 }}>
-                5. Using the Website
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                5.1. The Website and its Content are owned and managed by the
-                Website Administration.
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                5.2. Content may not be copied, published, reproduced,
-                transmitted, or distributed without prior written consent from
-                the Website Administration.
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                5.3. Content is protected by copyright, trademark, intellectual
-                property, and competition laws.
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                5.4. This Agreement governs all additional terms regarding works
-                or services provided on the Website.
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                5.5. Information posted on the Website does not alter this
-                Agreement.
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 4, px: isMobile ? 0 : 25 }}>
-                5.6. The Website Administration may change the list of offered
-                works and services at any time without notifying Users.
-              </Typography>
+                <Typography variant="h5" gutterBottom sx={{ color: "text.primary", mt: 4 }}>
+                  5. Intellectual Property
+                </Typography>
+                <Typography paragraph align="justify" fontSize={15} sx={{ mb: 4, lineHeight: 1.6 }}>
+                  The Website and its original content (including text, layout, and design elements) are owned by or licensed to the Company and are protected by applicable laws.
+                  <br /><br />
+                  However, references to third-party manufacturers, brands, or products are for informational purposes only.
+                  <br />
+                  All trademarks, trade names, and logos belong to their respective owners.
+                  <br />
+                  Such references do not imply affiliation, authorization, or endorsement.
+                  <br /><br />
+                  You may not copy, reproduce, or use Website content without prior written consent, except for personal or internal business use.
+                </Typography>
 
-              <Typography
-                variant="h5"
-                gutterBottom
-                sx={{ px: isMobile ? 0 : 25 }}>
-                6. Liability
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                6.1. The Administration is not liable for any losses incurred by
-                the User due to intentional or negligent violations of this
-                Agreement.
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                6.2. The Administration is not responsible for:
-              </Typography>
-              <Typography
-                component="div"
-                sx={{ pl: 2, mb: 4, px: isMobile ? 0 : 25 }}>
-                <ul style={{ margin: 0, paddingLeft: 20 }}>
-                  <li>
-                    Delays or failures due to force majeure or malfunctions in
-                    telecommunication, computer, electrical, or related systems;
-                  </li>
-                  <li>
-                    The proper functioning of the Website if the User lacks
-                    necessary technical means and is not obliged to provide such
-                    means.
-                  </li>
+                <Typography variant="h5" gutterBottom sx={{ color: "text.primary", mt: 4 }}>
+                  6. Acceptable Use
+                </Typography>
+                <Typography paragraph align="justify" fontSize={15} sx={{ mb: 2, lineHeight: 1.6 }}>
+                  You agree not to:
+                </Typography>
+                <ul style={{ marginBottom: 24, fontSize: 15, lineHeight: 1.8, paddingLeft: 20 }}>
+                  <li>Use the Website for unlawful or fraudulent purposes</li>
+                  <li>Interfere with Website functionality or security</li>
+                  <li>Attempt unauthorized access to systems or data</li>
+                  <li>Submit false or misleading information</li>
                 </ul>
-              </Typography>
+                <Typography paragraph align="justify" fontSize={15} sx={{ mb: 4, lineHeight: 1.6 }}>
+                  We reserve the right to restrict access in case of misuse.
+                </Typography>
 
-              <Typography
-                variant="h5"
-                gutterBottom
-                sx={{ px: isMobile ? 0 : 25 }}>
-                7. Violations
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                7.1. The Administration may disclose User information as
-                required or permitted under Turkish law.
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                7.2. The Administration may suspend or terminate User access
-                without prior notice if the User breaches this Agreement or
-                other related documents or if the Site is terminated or
-                malfunctions.
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                7.3. The Administration is not liable for damages resulting from
-                such suspension or termination.
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 1, px: isMobile ? 0 : 25 }}>
-                7.4. The Administration may disclose User information as
-                necessary for investigating misuse or protecting rights of the
-                Administration and other Users.
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 4, px: isMobile ? 0 : 25 }}>
-                7.5. The Administration may disclose User information as
-                necessary to comply with Turkish law or court orders and to
-                enforce this Agreement.
-              </Typography>
+                <Typography variant="h5" gutterBottom sx={{ color: "text.primary", mt: 4 }}>
+                  7. Contact Forms and Communications
+                </Typography>
+                <Typography paragraph align="justify" fontSize={15} sx={{ mb: 2, lineHeight: 1.6 }}>
+                  By submitting an inquiry via the Website, you:
+                </Typography>
+                <ul style={{ marginBottom: 24, fontSize: 15, lineHeight: 1.8, paddingLeft: 20 }}>
+                  <li>Confirm that the information provided is accurate</li>
+                  <li>Agree that we may contact you regarding your request</li>
+                  <li>Acknowledge that submission does not create a contractual relationship</li>
+                </ul>
+                <Typography paragraph align="justify" fontSize={15} sx={{ mb: 4, lineHeight: 1.6 }}>
+                  Any contractual engagement requires a separate written agreement.
+                </Typography>
 
-              <Typography
-                variant="h5"
-                gutterBottom
-                sx={{ px: isMobile ? 0 : 25 }}>
-                8. Governing Law and Disputes
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 4, px: isMobile ? 0 : 25 }}>
-                8.1. This Agreement is governed by the laws of the Republic of
-                Türkiye. All disputes arising from or related to this Agreement
-                shall be resolved in the courts of the Republic of Türkiye.
-              </Typography>
+                <Typography variant="h5" gutterBottom sx={{ color: "text.primary", mt: 4 }}>
+                  8. Third-Party Relationships
+                </Typography>
+                <Typography paragraph align="justify" fontSize={15} sx={{ mb: 2, lineHeight: 1.6 }}>
+                  The Website may reference or involve third parties (e.g., manufacturers, logistics providers, buyers, sellers).
+                  <br /><br />
+                  The Company:
+                </Typography>
+                <ul style={{ marginBottom: 24, fontSize: 15, lineHeight: 1.8, paddingLeft: 20 }}>
+                  <li>Is not responsible for third-party performance</li>
+                  <li>Does not guarantee third-party products or services</li>
+                  <li>Acts only within the role defined in the конкрет transaction (supplier or broker)</li>
+                </ul>
+                <Typography paragraph align="justify" fontSize={15} sx={{ mb: 4, lineHeight: 1.6 }}>
+                  All third-party engagements are subject to separate contractual terms.
+                </Typography>
 
-              <Typography
-                variant="h5"
-                gutterBottom
-                sx={{ px: isMobile ? 0 : 25 }}>
-                9. Changes to this Agreement
-              </Typography>
-              <Typography
-                paragraph
-                align="justify"
-                fontSize={14}
-                sx={{ mb: 6, px: isMobile ? 0 : 25 }}>
-                9.1. Any changes to this Agreement will be published on this
-                page and, if appropriate, notified to Users by email.
-              </Typography>
+                <Typography variant="h5" gutterBottom sx={{ color: "text.primary", mt: 4 }}>
+                  9. Logistics Disclaimer
+                </Typography>
+                <Typography paragraph align="justify" fontSize={15} sx={{ mb: 2, lineHeight: 1.6 }}>
+                  Descriptions of logistics services (including transport, delivery timelines, insurance, and tracking) are indicative only.
+                  <br /><br />
+                  Actual performance may vary due to:
+                </Typography>
+                <ul style={{ marginBottom: 24, fontSize: 15, lineHeight: 1.8, paddingLeft: 20 }}>
+                  <li>Customs procedures</li>
+                  <li>Regulatory requirements</li>
+                  <li>Force majeure events</li>
+                  <li>Third-party carrier actions</li>
+                </ul>
+                <Typography paragraph align="justify" fontSize={15} sx={{ mb: 4, lineHeight: 1.6 }}>
+                  Binding obligations arise only under specific agreements.
+                </Typography>
 
-              <Typography
-                paragraph
-                align="right"
-                fontWeight="bold"
-                sx={{ px: isMobile ? 0 : 25, mb: 4 }}>
-                ATLAS TRADE TEKNOLOJI ELEKTRONIK VE OTOMOTIV SANAYI TICARET
-                ANONIM SIRKETI
-              </Typography>
+                <Typography variant="h5" gutterBottom sx={{ color: "text.primary", mt: 4 }}>
+                  10. Limitation of Liability
+                </Typography>
+                <Typography paragraph align="justify" fontSize={15} sx={{ mb: 2, lineHeight: 1.6 }}>
+                  To the maximum extent permitted by UAE law:
+                  <br /><br />
+                  The Company shall not be liable for:
+                </Typography>
+                <ul style={{ marginBottom: 24, fontSize: 15, lineHeight: 1.8, paddingLeft: 20 }}>
+                  <li>Any indirect, incidental, or consequential damages</li>
+                  <li>Loss of profit, revenue, or business opportunities</li>
+                  <li>Reliance on Website content</li>
+                  <li>Actions or omissions of third parties</li>
+                </ul>
+                <Typography paragraph align="justify" fontSize={15} sx={{ mb: 4, lineHeight: 1.6 }}>
+                  Where liability cannot be excluded, it shall be limited to the extent permitted by applicable law.
+                </Typography>
+
+                <Typography variant="h5" gutterBottom sx={{ color: "text.primary", mt: 4 }}>
+                  11. Disclaimer of Warranties
+                </Typography>
+                <Typography paragraph align="justify" fontSize={15} sx={{ mb: 2, lineHeight: 1.6 }}>
+                  The Website is provided “as is” and “as available”.
+                  <br /><br />
+                  We do not warrant that:
+                </Typography>
+                <ul style={{ marginBottom: 24, fontSize: 15, lineHeight: 1.8, paddingLeft: 20 }}>
+                  <li>The Website will be uninterrupted or error-free</li>
+                  <li>The Website is free from viruses or harmful components</li>
+                  <li>The information is fully accurate or up to date</li>
+                </ul>
+
+                <Typography variant="h5" gutterBottom sx={{ color: "text.primary", mt: 6 }}>
+                  12. Confidentiality of Submissions
+                </Typography>
+                <Typography paragraph align="justify" fontSize={15} sx={{ mb: 4, lineHeight: 1.6 }}>
+                  Any non-personal information submitted through the Website (e.g., general inquiries) shall be treated as non-confidential unless agreed otherwise.
+                  <br /><br />
+                  For sensitive or commercial information, a separate confidentiality agreement is recommended.
+                </Typography>
+
+                <Typography variant="h5" gutterBottom sx={{ color: "text.primary", mt: 4 }}>
+                  13. Governing Law and Jurisdiction
+                </Typography>
+                <Typography paragraph align="justify" fontSize={15} sx={{ mb: 4, lineHeight: 1.6 }}>
+                  These Terms are governed by the laws of the United Arab Emirates, as applicable in the Emirate of Ras Al Khaimah.
+                  <br /><br />
+                  Any disputes shall be subject to the jurisdiction of the courts of Ras Al Khaimah, unless otherwise agreed in writing.
+                </Typography>
+
+                <Typography variant="h5" gutterBottom sx={{ color: "text.primary", mt: 4 }}>
+                  14. Changes to These Terms
+                </Typography>
+                <Typography paragraph align="justify" fontSize={15} sx={{ mb: 4, lineHeight: 1.6 }}>
+                  We may update these Terms at any time.
+                  <br /><br />
+                  The latest version will always be published on the Website. Continued use of the Website constitutes acceptance of the updated Terms.
+                </Typography>
+
+                <Typography variant="h5" gutterBottom sx={{ color: "text.primary", mt: 4 }}>
+                  15. Contact Information
+                </Typography>
+                <Typography paragraph fontSize={15} sx={{ mb: 8, lineHeight: 1.8 }}>
+                  Aegis Overseas FZ-LLC
+                  <br />
+                  Ras Al Khaimah Free Zone
+                  <br />
+                  United Arab Emirates
+                  <br /><br />
+                  Email: iwan@aegisoverseas.ae
+                  <br />
+                  Website: http://aegisoverseas.ae/
+                </Typography>
+              </Box>
             </motion.div>
           </Container>
         </Box>
 
         {/* Footer */}
-        <Box sx={{ bgcolor: "background.default", p: 2, textAlign: "center" }}>
-          <Typography variant="body2">
-            © {new Date().getFullYear()} ATLAS TRADE TEKNOLOJI ELEKTRONIK VE
-            OTOMOTIV SANAYI TICARET ANONIM SIRKETI. All rights reserved.
+        <Box sx={{ bgcolor: "background.default", p: 4, textAlign: "center", borderTop: "1px solid rgba(79, 255, 204, 0.1)" }}>
+          <Typography variant="body2" sx={{ color: "text.primary", opacity: 0.8 }}>
+            © {new Date().getFullYear()} Aegis Overseas FZ-LLC. All rights reserved.
           </Typography>
         </Box>
       </Box>
