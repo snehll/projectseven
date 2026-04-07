@@ -708,13 +708,13 @@ export default function Home() {
                       <Link
                         href="/terms-and-conditions"
                         sx={{ color: "#4fc55", textDecoration: "underline" }}>
-                        Terms and Conditions
+                        Privacy policy
                       </Link>{" "}
                       and{" "}
                       <Link
                         href="/user-agreement"
                         sx={{ color: "#4fc55", textDecoration: "underline" }}>
-                        Users agreement
+                        Terms of Use
                       </Link>
                     </Typography>
                   }
